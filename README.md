@@ -1,4 +1,6 @@
 # Algorithmic-Trading using SVC and MACD
+Algorithmic trading predicts when to buy and sell different stocks which could be of great use to the traders.
+
  Moving Average Convergence /Divergence indicator shows relationship between two moving averages.MACD is a momentum oscillator  used to trade trends.We define when to buy and sell the stocks using MACD and plot the buy and sell signals so the traders can easily know when to buy and sell particular stocks.
  SVC Algorithm is  a supervised machine learning algorithm and is used to implement a strategy return model so the customers know about the trend of particular stocks by predicting the returns and  it helps in taking future decisions regarding the stocks they are involved in.
 
